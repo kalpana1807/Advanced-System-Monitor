@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Advanced System Monitor & Health Dashboard (Pro)
 
 A professional-grade, real-time system performance monitor and health diagnostic dashboard built in **Python** using **PyQt6** and **psutil**. Styled with a gorgeous custom **Catppuccin dark theme**, this tool provides deep hardware metrics, multi-drive storage monitoring, interactive process management controls, and automated audit logging.
@@ -58,3 +59,6 @@ If you want to compile the project into a standalone Windows executable (.exe) u
 
 pyinstaller system_monitor.spec
 
+=======
+# Advanced-System-Monitor
+>>>>>>> d7f43e68197d9f2235f438fd37f8aa1dfd634367
